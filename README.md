@@ -14,7 +14,7 @@ Welcome to my portfolio project! Follow the steps below to set up and view the p
 ### 1. Navigate to the Project Folder
 Open a terminal and navigate to the folder where you saved the project files. Use the following command:
 ```bash
-cd path/to/your/project-foldera
+cd path/to/your/project-folder
 ```
 
 ### 2. Install Dependencies
